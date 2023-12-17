@@ -5,4 +5,5 @@ Utiliza datos del teléfono, la ubicación y la conexión, ya sea mediante datos
 <h3>Lenguaje</h3>	
 *  Kotlin
 <h3>Captura de pantallas</h3>	
-![CAP 1](https://github.com/nicofuentesg/Comunicaciones/assets/75289303/b48375ce-3ee0-4ecf-a570-0e1bdd8bbc66)
+![CAP 1](https://github.com/nicofuentesg/Comunicaciones/blob/main/assets/75289303/b48375ce-3ee0-4ecf-a570-0e1bdd8bbc66.png)
+
