@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552273356112",
+    "project_id": "comunicacionesred-b0f6a",
+    "storage_bucket": "comunicacionesred-b0f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552273356112:android:5835f70c5718a18dc5f855",
+        "android_client_info": {
+          "package_name": "com.example.comunicaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKEWdVOjOyGT5OPtVm1NlGAYODOAu_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
